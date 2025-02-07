@@ -4,6 +4,14 @@ Thank you for your interest in contributing to the Longhorn-Neurotech Synposium!
 
 ---
 
+## Table of Contents
+- [Recommended Repository Structure](#recommended-repository-structure)
+- [Adding New Content](#adding-new-content)
+- [Best Practices](#best-practices)
+- [How to Contribute](#how-to-contribute)
+
+---  
+
 ## Recommended Repository Structure
 
 We suggest the following structure to keep content well-organized and easily accessible:
@@ -59,7 +67,7 @@ When adding new materials or updating the repository:
 
 ---
 
-## Best Practices for Future Maintainers
+## Best Practices
 
 - **Consistency:**  
   Maintain consistent naming conventions and file organization. This is crucial as the project grows and new contributors join.
