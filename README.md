@@ -48,9 +48,9 @@ Whether you’re new to the field or a seasoned researcher, our Synposium is des
 
 Mark your calendars for an exciting Spring semester. Below is our preliminary schedule:
 
-| **Date**    | **Topic/Title**                                 | **Lecturer**        | **Paper**                 | **Presenter(s)**   | **Materials**                                                                                   |
+| **Date**    | **Lecture Title**                                 | **Lecturer**        | **Paper**                 | **Presenter(s)**   | **Materials**                                                                                   |
 |------------|-----------------------------------------------|---------------------|----------------------------|-------------------|-------------------------------------------------------------------------------------------------|
-| Feb 7, 2025  | *Intro to Neuroscience*         | Julian Weaver        | **     | Raquel Paz Bergia       | [Materials](./meeting_material/20250207_Intro_To_Neuroscience_&_History_of_EEG)         |
+| Feb 7, 2025  | *Intro to Neuroscience*         | Julian Weaver        | *One hundred years of EEG for brain and behaviour research*     | Raquel Paz Bergia       | [Materials](./meeting_material/20250207_Intro_To_Neuroscience_&_History_of_EEG)         |
 | Feb 14, 2025 | *TBD*                 | TBD    | *TBD*      | TBD     | [Materials](./meeting_material/20250214_TBD)         |
 | ...         | ...                                           | ...                 | ...                        | ...               | ...                                                                                             |
 
