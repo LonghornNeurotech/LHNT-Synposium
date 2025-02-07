@@ -55,7 +55,7 @@ Longhorn-Neurotech-Synposium/
 
 When adding new materials or updating the repository:
 
-1. **New Events:**
+1. **New Meetings:**
    - Create a new folder inside the `meeting_material/` directory following the naming convention: `YYYYMMDD_Topic_Name/`.
    - Inside the folder, include:
      - `lecture_slides.pdf` – Slide deck for the lecture portion.
