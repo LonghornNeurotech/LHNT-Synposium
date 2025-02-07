@@ -48,14 +48,11 @@ Whether you’re new to the field or a seasoned researcher, our Synposium is des
 
 Mark your calendars for an exciting Spring semester. Below is our preliminary schedule:
 
-| **Date**    | **Topic/Title**                           | **Speaker**        | **Materials**                                                                                   |
-|-------------|-------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------|
-| Feb 7, 2025 | *Neurotechnology: State of the Art*       | Dr. A. Smith       | [Slides](./events/20250207/slides.pdf) • [Paper List](./events/20250207/paper_links.md)            |
-| Feb 14, 2025| *Brain-Computer Interfaces*               | Prof. B. Johnson   | [Slides](./events/20250214/slides.pdf) • [Recording](./events/20250214/recording.mp4)             |
-| Feb 21, 2025| *Innovations in Neural Imaging*           | Dr. C. Lee         | [Slides](./events/20250221/slides.pdf) • [Paper List](./events/20250221/paper_links.md)            |
-| Feb 28, 2025| *Neural Network Modeling*                 | Dr. D. Martinez    | [Slides](./events/20250228/slides.pdf) • [Recording](./events/20250228/recording.mp4)             |
-| Mar 7, 2025 | *Ethics in Neurotechnology*               | Prof. E. Chen      | [Slides](./events/20250307/slides.pdf)                                                            |
-| ...         | ...                                       | ...                | ...                                                                                             |
+| **Date**    | **Topic/Title**                                 | **Lecturer**        | **Paper**                 | **Presenter(s)**   | **Materials**                                                                                   |
+|------------|-----------------------------------------------|---------------------|----------------------------|-------------------|-------------------------------------------------------------------------------------------------|
+| Feb 7, 2025  | *Intro to Neuroscience*         | Julian Weaver        | **     | Raquel Paz Bergia       | [Materials](./meeting_material/20250207_Intro_To_Neuroscience_&_History_of_EEG)         |
+| Feb 14, 2025 | *TBD*                 | TBD    | *TBD*      | TBD     | [Materials](./meeting_material/20250214_TBD)         |
+| ...         | ...                                           | ...                 | ...                        | ...               | ...                                                                                             |
 
 *Tip: Bookmark this page and check back weekly for updated links and session details!*
 
