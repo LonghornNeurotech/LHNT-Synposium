@@ -5,6 +5,12 @@
 [![Location](https://img.shields.io/badge/Location-EER%20Atrium%20(Fl0)-yellow)](https://cockrell.utexas.edu/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](./LICENSE)
 
+<p align="center">
+  <a href = "https://lhneurotech.com/">
+    <img src=".misc/logo.png" alt="LHNT Synposium Logo" width="500" height="auto">
+  </a>
+</p>
+
 Discover the cutting edge of neurotechnology with The University of Texas at Austin's **Longhorn Neurotech**!  
 The *Synposium* is a weekly event featuring neuroscience lectures and an interactive journal club dedicated to neurotechnology.  
 Each meeting is split into two parts:
