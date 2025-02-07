@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href = "https://lhneurotech.com/">
-    <img src="synposium_banner.png" alt="LHNT Synposium Banner" width="1920" height="auto">
+    <img src="./misc_resources/repo/synposium_banner.png" alt="LHNT Synposium Banner" width="1920" height="auto">
   </a>
 </p>
 
@@ -24,11 +24,13 @@ Each meeting is split into two parts:
 ---
 
 ## Table of Contents
-- [About](#about)
-- [Calendar (Spring 2025)](#calendar-spring-2025)
-- [Materials & Resources](#materials--resources)
-- [Contributing](#contributing)
-- [License](#license)
+- [Longhorn Neurotech Synposium](#longhorn-neurotech-synposium)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Calendar (Spring 2025)](#calendar-spring-2025)
+  - [Materials \& Resources](#materials--resources)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ---
 
