@@ -36,12 +36,15 @@ Longhorn-Neurotech-Synposium/
 │   │   ├── links.md
 │   │   └── recording.mp4
 │   └── … (other  folders)
-└── misc_resources/              # Supplementary resources (extra reading, data, extra slides)
+└── misc_resources/              # Supplementary resources + github repo (extra reading, data, extra slides)
     ├── papers/
     │   ├── paper1.pdf
     │   └── paper2.pdf
     ├── data/
     │   ├── dataset1
+    ├── repo/
+    │   ├── image.png
+    │   └── image.png
     └── slides/
     ├── extra_slide1.pdf
     └── extra_slide2.pdf
