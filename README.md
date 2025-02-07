@@ -59,10 +59,10 @@ Mark your calendars for an exciting Spring semester. Below is our preliminary sc
 
 All learning materials are centralized in this repository:
 
-- **Slides:** Located in each event’s folder (e.g., `./meeting_resources/20250207/slides.pdf`).
-- **Recordings:** If available, found in the corresponding event folder (e.g., `./meeting_resources/20250214/recording.mp4`).
-- **Paper Links & Other Material:** Available as Markdown files in each event folder (e.g., `./meeting_resources/20250207/links.md`).
-- **Additional Resources:** Explore our [Resources Directory](./resources/) for supplementary readings, code snippets, datasets, and more.
+- **Slides:** Located in each event’s folder (e.g., `./meeting_material/20250207/slides.pdf`).
+- **Recordings:** If available, found in the corresponding event folder (e.g., `./meeting_material/20250214/recording.mp4`).
+- **Paper Links & Other Material:** Available as Markdown files in each event folder (e.g., `./meeting_material/20250207/links.md`).
+- **Additional Resources:** Explore our [Resources Directory](./misc_resources/) for supplementary readings, code snippets, datasets, and more.
 
 ---
 
