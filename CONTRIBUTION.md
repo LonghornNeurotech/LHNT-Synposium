@@ -70,6 +70,7 @@ When adding new materials or updating the repository:
 3. **Miscellaneous Resources:**
    - Supplementary materials that are not tied to a single event can be stored in the `misc_resources/` directory.
    - Organize by type (e.g., `papers/`, `slides/`).
+   - Additionally contains material for the repository itself in the `repo/` directory.
 
 ---
 
