@@ -51,14 +51,14 @@ Longhorn-Neurotech-Synposium/
 When adding new materials or updating the repository:
 
 1. **New Events:**
-   - Create a new folder inside the `events/` directory following the naming convention: `YYYYMMDD_Topic_Name/`.
+   - Create a new folder inside the `meeting_resources/` directory following the naming convention: `YYYYMMDD_Topic_Name/`.
    - Inside the folder, include:
      - `slides.pdf` – Slide deck for the lecture portion.
-     - `paper_links.md` – Markdown file containing links to relevant papers and reading lists for the journal club.
+     - `links.md` – Markdown file containing links to relevant papers and material for the journal club.
      - `recording.mp4` (or another appropriate format) – Recording of the session (if available).
 
 2. **Archives:**
-   - For older events, add summary pages in the `archives/` folder.
+   - For past semesters, add summary pages in the `archives/` folder.
    - Each archive file should include session summaries, links to slides, recordings, and paper lists.
 
 3. **Resources:**
