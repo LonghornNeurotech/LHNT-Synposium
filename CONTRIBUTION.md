@@ -24,7 +24,7 @@ Longhorn-Neurotech-Synposium/
 ├── archives/               # Archive pages for past semesters (TODO)
 │   ├── january-2025.md
 │   └── winter-2024.md
-├── meeting_resources/      # Folders for each meeting
+├── meeting_material/      # Folders for each meeting
 │   ├── 20250207_Intro_To_Neuropsychopharmacological_Computational_Cognitive_Neuroscience_Part_3/
 │   │   ├── slides.pdf
 │   │   ├── links.md
@@ -34,7 +34,7 @@ Longhorn-Neurotech-Synposium/
 │   │   ├── links.md
 │   │   └── recording.mp4
 │   └── … (other  folders)
-└── resources/              # Supplementary resources (extra reading, data, extra slides)
+└── misc_resources/              # Supplementary resources (extra reading, data, extra slides)
     ├── papers/
     │   ├── paper1.pdf
     │   └── paper2.pdf
@@ -51,7 +51,7 @@ Longhorn-Neurotech-Synposium/
 When adding new materials or updating the repository:
 
 1. **New Events:**
-   - Create a new folder inside the `meeting_resources/` directory following the naming convention: `YYYYMMDD_Topic_Name/`.
+   - Create a new folder inside the `meeting_material/` directory following the naming convention: `YYYYMMDD_Topic_Name/`.
    - Inside the folder, include:
      - `slides.pdf` – Slide deck for the lecture portion.
      - `links.md` – Markdown file containing links to relevant papers and material for the journal club.
@@ -61,8 +61,8 @@ When adding new materials or updating the repository:
    - For past semesters, add summary pages in the `archives/` folder.
    - Each archive file should include session summaries, links to slides, recordings, and paper lists.
 
-3. **Resources:**
-   - Supplementary materials that are not tied to a single event can be stored in the `resources/` directory.
+3. **Miscellaneous Resources:**
+   - Supplementary materials that are not tied to a single event can be stored in the `misc_resources/` directory.
    - Organize by type (e.g., `papers/`, `slides/`).
 
 ---
