@@ -1,7 +1,8 @@
 # Longhorn Neurotech Synposium
 
-[![Meeting Schedule](https://img.shields.io/badge/Meetings-Fridays%205–6pm-blue)](https://github.com/your-org/your-repo)
-[![Location](https://img.shields.io/badge/Location-EER%20Atrium%20(Fl0)-green)](https://www.utexas.edu/)
+[![Host](https://img.shields.io/badge/Longhorn%20Neurotech-orange)](https://github.com/LonghornNeurotech)
+[![Time](https://img.shields.io/badge/Meetings-Fridays%205–6pm-blue)](https://github.com/your-org/your-repo)
+[![Location](https://img.shields.io/badge/Location-EER%20Atrium%20(Fl0)-yellow)](https://cockrell.utexas.edu/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](./LICENSE)
 
 Discover the cutting edge of neurotechnology with The University of Texas at Austin's **Longhorn Neurotech**!  
