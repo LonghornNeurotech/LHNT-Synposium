@@ -1,6 +1,6 @@
-# Contribution Guidelines for the Longhorn-Neurotech Synposium
+# Contribution Guidelines for the Longhorn Neurotech Synposium
 
-Thank you for your interest in contributing to the Longhorn-Neurotech Synposium! This document outlines the recommended repository structure, guidelines for adding new content, and best practices for maintaining the project. This will ensure continuity and ease-of-use for future maintainers—ensuring that the project thrives long after its original creation.
+Thank you for your interest in contributing to the Longhorn Neurotech Synposium! This document outlines the recommended repository structure, guidelines for adding new content, and best practices for maintaining the project. This will ensure continuity and ease-of-use for future maintainers—ensuring that the project thrives long after its original creation.
 
 ---
 
@@ -97,4 +97,4 @@ When adding new materials or updating the repository:
 - **Review Guidelines:**  
   Before submitting a pull request, please review our repository structure and contribution guidelines.
 
-Thank you for helping keep the Longhorn-Neurotech Synposium an active, thriving resource for neurotechnology enthusiasts and scholars!
+Thank you for helping keep the Longhorn Neurotech Synposium an active, thriving resource for neurotechnology enthusiasts and scholars!
