@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href = "https://lhneurotech.com/">
-    <img src=".misc/logo.png" alt="LHNT Synposium Logo" width="500" height="auto">
+    <img src="synposium_banner.png" alt="LHNT Synposium Banner" width="500" height="auto">
   </a>
 </p>
 
