@@ -26,11 +26,13 @@ Longhorn-Neurotech-Synposium/
 │   └── winter-2024.md
 ├── meeting_material/      # Folders for each meeting
 │   ├── 20250207_Intro_To_Neuropsychopharmacological_Computational_Cognitive_Neuroscience_Part_3/
-│   │   ├── slides.pdf
+│   │   ├── lecture_slides.pdf
+│   │   ├── journal_slides.pdf
 │   │   ├── links.md
 │   │   └── recording.mp4    # if applicable
 │   ├── 20250214_How_To_Not_Drop_The_Headset/
-│   │   ├── slides.pdf
+│   │   ├── lecture_slides.pdf
+│   │   ├── journal_slides.pdf
 │   │   ├── links.md
 │   │   └── recording.mp4
 │   └── … (other  folders)
@@ -53,8 +55,9 @@ When adding new materials or updating the repository:
 1. **New Events:**
    - Create a new folder inside the `meeting_material/` directory following the naming convention: `YYYYMMDD_Topic_Name/`.
    - Inside the folder, include:
-     - `slides.pdf` – Slide deck for the lecture portion.
-     - `links.md` – Markdown file containing links to relevant papers and material for the journal club.
+     - `lecture_slides.pdf` – Slide deck for the lecture portion.
+     - `journal_slides.pdf` – Slide deck for the journal club portion.
+     - `links.md` – Markdown file containing links to relevant papers and material for the lecture and journal club.
      - `recording.mp4` (or another appropriate format) – Recording of the session (if available).
 
 2. **Archives:**
