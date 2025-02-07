@@ -20,7 +20,6 @@ Each meeting is split into two parts:
 ## Table of Contents
 - [About](#about)
 - [Calendar (Spring 2025)](#calendar-spring-2025)
-- [Past Events & Archives](#past-events--archives)
 - [Materials & Resources](#materials--resources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -56,28 +55,13 @@ Mark your calendars for an exciting Spring semester. Below is our preliminary sc
 
 ---
 
-## Past Events & Archives
-
-If you missed a session or want to revisit previous discussions, check out our archives:
-
-- **[January 2025 Archive](./archives/january-2025.md)**
-- **[Winter 2024 Archive](./archives/winter-2024.md)**
-
-Each archive includes:
-- Session summaries
-- Slide decks
-- Recordings (if available)
-- Links to discussed papers
-
----
-
 ## Materials & Resources
 
 All learning materials are centralized in this repository:
 
-- **Slides:** Located in each event’s folder (e.g., `./events/20250207/slides.pdf`).
-- **Recordings:** Found in the corresponding event folder (e.g., `./events/20250214/recording.mp4`).
-- **Paper Links & Reading Lists:** Available as Markdown files in each event folder (e.g., `./events/20250207/paper_links.md`).
+- **Slides:** Located in each event’s folder (e.g., `./meeting-resources/20250207/slides.pdf`).
+- **Recordings:** Found in the corresponding event folder (e.g., `./meeting-resources/20250214/recording.mp4`).
+- **Paper Links & Other Material:** Available as Markdown files in each event folder (e.g., `./meeting-resources/20250207/links.md`).
 - **Additional Resources:** Explore our [Resources Directory](./resources/) for supplementary readings, code snippets, datasets, and more.
 
 ---
