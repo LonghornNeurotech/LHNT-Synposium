@@ -1,4 +1,4 @@
-# Lecture Resources
+# Lecture Resources (2/17/2025)
 
 ## 📖 Lecture Materials
 [📂 View Lecture Slides](https://docs.google.com/presentation/d/19UHfNfHr8IYuRm1ka3Vpio2Al8sxhykbq4ErfNWdkDU/edit#slide=id.g2f84932d30d_2_7)
