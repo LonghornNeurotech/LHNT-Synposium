@@ -53,7 +53,7 @@ Mark your calendars for an exciting Spring semester. Below is our schedule:
 | **Date**    | **Lecture Title**                                 | **Lecturer**        | **Paper**                 | **Presenter(s)**   | **Materials**                                                                                   |
 |------------|-----------------------------------------------|---------------------|----------------------------|-------------------|-------------------------------------------------------------------------------------------------|
 | Feb 7, 2025  | *Intro to Neuroscience*         | Julian Weaver        | *One hundred years of EEG for brain and behaviour research*     | Raquel Paz Bergia       | [Materials](./meeting_material/20250207)         |
-| Feb 14, 2025 | *TBD*                 | Julian Weaver    | *Noninvasive Brain-Actuated Control of a Mobile Robot by Human EEG*      | TBD     | [Materials](./meeting_material/20250214)         |
+| Feb 14, 2025 | *Electroencephalography*                 | Julian Weaver    | *Noninvasive EEG-Based Intelligent Mobile Robots: A Systematic Review*      | Donovan Santine     | [Materials](./meeting_material/20250214)         |
 | Feb 21, 2025 | *TBD*                 | TBD    | *TBD*      | TBD     | [Materials](./meeting_material/20250221)         |
 | ...         | ...                                           | ...                 | ...                        | ...               | ...                                                                                             |
 
