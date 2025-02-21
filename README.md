@@ -19,7 +19,7 @@ Each meeting is split into two parts:
 
 **Meeting Details:**
 - **When:** Every Friday, 5:00 – 6:00 PM
-- **Where:** EER Atrium (Floor 0)
+- **Where:** RLP 1.108
 
 ---
 
