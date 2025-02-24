@@ -1,8 +1,8 @@
 # LONGHORN NEUROTECH SYNPOSIUM
 
 [![Host](https://img.shields.io/badge/Longhorn%20Neurotech-orange)](https://github.com/LonghornNeurotech)
-[![Time](https://img.shields.io/badge/Meetings-Fridays%205–6pm-blue)](https://github.com/your-org/your-repo)
-[![Location](https://img.shields.io/badge/Location-EER%20Atrium%20(Fl0)-yellow)](https://cockrell.utexas.edu/)
+[![Time](https://img.shields.io/badge/Meetings-Fridays%205–6%20PM-blue)](https://github.com/your-org/your-repo)
+[![Location](https://img.shields.io/badge/Location-RLP%201.108-yellow)](https://cockrell.utexas.edu/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](./LICENSE)
 
 <p align="center">
