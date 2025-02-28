@@ -24,7 +24,7 @@ Each meeting is split into two parts:
 ---
 
 ## Table of Contents
-- [Longhorn Neurotech Synposium](#longhorn-neurotech-synposium)
+- [LONGHORN NEUROTECH SYNPOSIUM](#longhorn-neurotech-synposium)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Calendar (Spring 2025)](#calendar-spring-2025)
@@ -54,7 +54,9 @@ Mark your calendars for an exciting Spring semester. Below is our schedule:
 |------------|-----------------------------------------------|---------------------|----------------------------|-------------------|-------------------------------------------------------------------------------------------------|
 | Feb 7, 2025  | *Intro to Neuroscience*         | Julian Weaver        | *One hundred years of EEG for brain and behaviour research*     | Raquel Paz Bergia       | [Materials](./meeting_material/20250207)         |
 | Feb 14, 2025 | *Electroencephalography*                 | Julian Weaver    | *Noninvasive EEG-Based Intelligent Mobile Robots: A Systematic Review*      | Donovan Santine     | [Materials](./meeting_material/20250214)         |
-| Feb 21, 2025 | *TBD*                 | TBD    | *TBD*      | TBD     | [Materials](./meeting_material/20250221)         |
+| Feb 21, 2025 | *Neuronal Computation & AI 1940-1980*  | Julian Weaver    | *Action prediction based on anticipatory brain potentials during simulated driving*      | Group Discussion    | [Materials](./meeting_material/20250221)         |
+| Feb 28, 2025 | *Neuronal Computatoin & AI 1980-Present* | Julian Weaver    | *TBD*      | Group Discussion     | [Materials](./meeting_material/20250228)         |
+
 | ...         | ...                                           | ...                 | ...                        | ...               | ...                                                                                             |
 
 
