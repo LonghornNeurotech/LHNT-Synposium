@@ -1,7 +1,7 @@
 # LONGHORN NEUROTECH SYNPOSIUM
 
 [![Host](https://img.shields.io/badge/Longhorn%20Neurotech-orange)](https://github.com/LonghornNeurotech)
-[![Time](https://img.shields.io/badge/Meetings-Fridays%205–6%20PM-blue)](https://github.com/your-org/your-repo)
+[![Time](https://img.shields.io/badge/Meetings-Tuesdays%206:30–7:30%20PM-blue)](https://github.com/your-org/your-repo)
 [![Location](https://img.shields.io/badge/Location-RLP%201.108-yellow)](https://cockrell.utexas.edu/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](./LICENSE)
 
@@ -18,7 +18,7 @@ Each meeting is split into two parts:
 - **Second 30 Minutes:** Journal club discussion led by **Raquel Paz Bergia** (Education Lead)
 
 **Meeting Details:**
-- **When:** Every Friday, 5:00 – 6:00 PM
+- **When:** Every Tuesday, 6:30 – 7:00 PM
 - **Where:** RLP 1.108
 
 ---
@@ -55,10 +55,9 @@ Mark your calendars for an exciting Spring semester. Below is our schedule:
 | Feb 7, 2025  | *Intro to Neuroscience*         | Julian Weaver        | *One hundred years of EEG for brain and behaviour research*     | Raquel Paz Bergia       | [Materials](./meeting_material/20250207)         |
 | Feb 14, 2025 | *Electroencephalography*                 | Julian Weaver    | *Noninvasive EEG-Based Intelligent Mobile Robots: A Systematic Review*      | Donovan Santine     | [Materials](./meeting_material/20250214)         |
 | Feb 21, 2025 | *Neuronal Computation & AI 1940-1980*  | Julian Weaver    | *Action prediction based on anticipatory brain potentials during simulated driving*      | Group Discussion    | [Materials](./meeting_material/20250221)         |
-| Feb 28, 2025 | *Neuronal Computatoin & AI 1980-Present* | Julian Weaver    | *TBD*      | Group Discussion     | [Materials](./meeting_material/20250228)         |
-
+| Feb 28, 2025 | *Neuronal Computation & AI 1980-Present* | Julian Weaver    | *None*     | Group Discussion     | [Materials](./meeting_material/20250228)         |
+| Mar 11, 2025 | *Neuronal Computation & AI 1980-Present* | Julian Weaver    | *Seeing it all: Convolutional network layers map the function of the human visual system*      | Group Discussion     | [Materials](./meeting_material/20250228+0311)         |
 | ...         | ...                                           | ...                 | ...                        | ...               | ...                                                                                             |
-
 
 *Tip: Star this repository and check back weekly for updated links and session details!*
 
