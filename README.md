@@ -55,8 +55,9 @@ Mark your calendars for an exciting Spring semester. Below is our schedule:
 | Feb 7, 2025  | *Intro to Neuroscience*         | Julian Weaver        | *One hundred years of EEG for brain and behaviour research*     | Raquel Paz Bergia       | [Materials](./meeting_material/20250207)         |
 | Feb 14, 2025 | *Electroencephalography*                 | Julian Weaver    | *Noninvasive EEG-Based Intelligent Mobile Robots: A Systematic Review*      | Donovan Santine     | [Materials](./meeting_material/20250214)         |
 | Feb 21, 2025 | *Neuronal Computation & AI 1940-1980*  | Julian Weaver    | *Action prediction based on anticipatory brain potentials during simulated driving*      | Group Discussion    | [Materials](./meeting_material/20250221)         |
-| Feb 28, 2025 | *Neuronal Computation & AI 1980-Present* | Julian Weaver    | *None*     | Group Discussion     | [Materials](./meeting_material/20250228)         |
+| Feb 28, 2025 | *Neuronal Computation & AI 1980-Present* | Julian Weaver    | *None*     | Group Discussion     | [Materials](./meeting_material/20250228+0311)         |
 | Mar 11, 2025 | *Neuronal Computation & AI 1980-Present* | Julian Weaver    | *Seeing it all: Convolutional network layers map the function of the human visual system*      | Group Discussion     | [Materials](./meeting_material/20250228+0311)         |
+| Mar 25, 2025 | *Neurobiology for the Soul* | Julian Weaver    | *Engineering a memory with LTD and LTP*      | Group Discussion     | [Materials](./meeting_material/20250325)         |
 | ...         | ...                                           | ...                 | ...                        | ...               | ...                                                                                             |
 
 *Tip: Star this repository and check back weekly for updated links and session details!*
