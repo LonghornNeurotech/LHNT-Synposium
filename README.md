@@ -58,7 +58,7 @@ Mark your calendars for an exciting Spring semester. Below is our schedule:
 | Feb 28, 2025 | *Neuronal Computation & AI 1980-Present* | Julian Weaver    | *None*     | Group Discussion     | [Materials](./meeting_material/20250228+0311)         |
 | Mar 11, 2025 | *Neuronal Computation & AI 1980-Present* | Julian Weaver    | *Seeing it all: Convolutional network layers map the function of the human visual system*      | Group Discussion     | [Materials](./meeting_material/20250228+0311)         |
 | Mar 25, 2025 | *Neurobiology for the Soul* | Julian Weaver    | *Engineering a memory with LTD and LTP*      | Group Discussion     | [Materials](./meeting_material/20250325)         |
-| Apr 08, 2025 | *TBD* | Julian Weaver    | *Semantic reconstruction of continuous language from non-invasive brain recordings*      | Group Discussion     | [Materials](./meeting_material/20250408)         |
+| Apr 08, 2025 | *Practical Neuroscience* | Julian Weaver    | *Semantic reconstruction of continuous language from non-invasive brain recordings*      | Group Discussion     | [Materials](./meeting_material/20250408)         |
 | ...         | ...                                           | ...                 | ...                        | ...               | ...                                                                                             |
 
 *Tip: Star this repository and check back weekly for updated links and session details!*
